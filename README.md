@@ -7,24 +7,25 @@ GitHub is a company founded in 2008 that makes tools which integrate with git. Y
 
 ## Basic Terms to know
 
-1.Repository
-2.Commit
-3.Branch
-4.Merge
-5.Push
-6.Pull
-7.Clone
-8.Fork
-9.Git-ignore
-10.Origin
+1.Repository\
+2.Commit\
+3.Branch\
+4.Merge\
+5.Push\
+6.Pull\
+7.Clone\
+8.Fork\
+9.Git-ignore\
+10.Origin\
 11.Master
 
-Other terms though not often used are important.
-Plz reference the following for same.
-https://www.javatpoint.com/git-terminology
+Other terms though not often used are ust as important.
+Plz reference the following for same.\
+https://www.javatpoint.com/git-terminology <br />
 https://www.toolsqa.com/git/git-terminologies/
 
-More about Gitbhub
-https://docs.github.com/en/get-started/quickstart/github-glossary
-https://www.tutorialspoint.com/git/index.htm
+
+More about Github\
+https://docs.github.com/en/get-started/quickstart/github-glossary<br />
+https://www.tutorialspoint.com/git/index.htm<br />
 https://www.w3schools.com/whatis/whatis_github.asp
