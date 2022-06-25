@@ -1,5 +1,5 @@
 # About-Git-and-GitHub
-Learning about how GitHub works using UI and using git language using the cmd line.
+Learning about how GitHub works using UI and cmd line (using git language).
 
 Git is a popular version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
 
